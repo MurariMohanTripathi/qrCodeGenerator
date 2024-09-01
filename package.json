@@ -1,0 +1,16 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murari Mohan Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "qr-image": "^3.2.0"
+  }
+}
